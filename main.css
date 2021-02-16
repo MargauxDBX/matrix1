@@ -1,13 +1,22 @@
 h1{
-	color: white;
+	color: white ;
+	background-color: green;
    	width: 500px;
    	border: 1px solid black;
-	font-size: 95%;
-
+	font-size: 110%;
+	font-family: "poppins", "Georgia", Serif;
+	text-align: center;
+}
 
 #footer
 	color: white ; 
 	background-color: green;
 
-h2 font-family: "Times New Roman", "Georgia", Serif; 
+p{
+	color: blue ;
+   	width: 500px;
+   	border: 1px solid black;
+	font-size: 95%;
+	font-family: "poppins", "Georgia", Serif;
+	text-align: center;
 }
